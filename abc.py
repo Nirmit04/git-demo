@@ -1,4 +1,6 @@
-def calculate(a, b)
-     a + b
-def multiply(a, b)
+def calculate(a, b):
+    return a + b
+def subract(a, b):
+    return a - b
+def multiply(a, b):
     return a * b
